@@ -15,8 +15,7 @@ By performing these calculations, TechStream Solutions aims to:
 - Make informed decisions on scaling their operations and optimizing their resource allocation.
 - This information will guide TechStream Solutions in refining their business strategies, ensuring sustainable growth, and maximizing profitability.
 
-## Resources used
-### Datasets 
+## Datasets used
 
 The datasets are contained in the **"TechStreamData"** folder:
 
